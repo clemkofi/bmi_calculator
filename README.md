@@ -12,5 +12,5 @@ For Adults, the app shows the BMI and uses three categories to classify the BMI.
 
 For children and teens between the ages of 2 and 20, the app doesn the same but uses the CDC acclaimed percentile format to classify the BMI into the various categories.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![Finished App](https://github.com/clemkofi/bmi_calculator/blob/master/screenshots/Screenshot%202019-12-09%20at%201.28.57%20AM.png?raw=true)![Finished App](https://github.com/clemkofi/bmi_calculator/blob/master/screenshots/Screenshot%202019-12-09%20at%201.34.28%20AM.png?raw=true)
 
